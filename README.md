@@ -39,7 +39,7 @@ This is the main user-facing website for the e-commerce platform, built using **
 3. Set up environment variables:
    Create a `.env` file in the root directory and add the necessary environment variables. Example:
    ```env
-   API_BASE_URL="http://localhost:3000/api/[storeId]"
+   API_BASE_URL="your-admin-url/api/[storeId]"
    ```
 
 4. Start the development server:
