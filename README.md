@@ -14,7 +14,7 @@ This is the main user-facing website for the e-commerce platform, built using **
 - **Language**: TypeScript
 - **Styling**: CSS/SCSS or a CSS-in-JS solution like Tailwind CSS (optional)
 - **State Management**: Context API, Redux, or any state management library (if used)
-- **Database**: Prisma
+- **Database**: PostgreSQL
 - **API**: RESTful APIs for backend integration with the admin panel
 - **Payment**: Stripe for handling payments
 
